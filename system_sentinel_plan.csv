@@ -1,0 +1,22 @@
+Task,Type,Details
+Identify Libraries/APIs,Implementation,Research and select libraries for hardware monitoring
+Design UI/UX,Implementation,Create user interface layout for the app
+Implement Backend Logic,Implementation,Develop backend for monitoring and script execution
+Build User Interface,Implementation,Develop the user interface as per design
+Backend-Frontend Integration,Implementation,Integrate backend logic with frontend
+Test CPU Features,Testing,Separately test all CPU monitoring features
+Test GPU Features,Testing,Separately test all GPU monitoring features
+Test Memory Speed,Testing,Test reading of memory speed feature
+Test Running Batch Files,Testing,Ensure batch file execution works correctly
+Test Running PS Scripts,Testing,Ensure PowerShell script execution works correctly
+Integrated App Test,Testing,Test full functionality integration
+Beta Testing,Testing,Conduct beta testing and get user feedback
+Issue Fixing,Implementation,Fix issues found during tests
+Preparation for Release,Implementation,Finalize the app for release
+Unit Tests for Backend,Testing,Create unit tests for hardware monitoring functions
+Unit Tests for Scripts,Testing,Create unit tests for script execution functions
+Test Plan for UI/UX,Testing,Develop tests for UI/UX
+Stress Test,Testing,Perform load testing on the app
+Compatibility Test,Testing,Check compatibility with different Windows versions
+Analyze Feedback,Testing,Review beta testing feedback
+Security Review,Testing,Examine security for script execution
